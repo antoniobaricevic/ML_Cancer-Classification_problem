@@ -19,3 +19,6 @@ This dataset is publicly available. This breast cancer databases was obtained fr
 7. Random Forest Classification
 8. XGBoost
 9. CatBoost
+
+#### Results:
+![Results](https://github.com/antoniobaricevic/ML_Cancer-Classification_problem/blob/main/Results.png?raw=true)
